@@ -1,16 +1,22 @@
-## Hi there 👋
+# Bienvenue sur mon profil GitHub 👋
 
-<!--
-**TheFrenchRizz/TheFrenchRizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
 
-Here are some ideas to get you started:
+Salut ! Je suis TheFrenchRizz, un étudiant en Informatique qui a crée son github pour s'adonner à la passion du développement de temps en temps. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Statistiques GitHub
+
+![Les statistiques GitHub de TheFrenchRizz](https://github-readme-stats.vercel.app/api?username=TheFrenchRizz&show_icons=true&theme=radical)
+
+## Langues les plus utilisées
+
+![Les langues les plus utilisées par TheFrenchRizz](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFrenchRizz&layout=compact&theme=radical)
+
+## Activité de contribution
+
+![Graphique des contributions de TheFrenchRizz](https://activity-graph.herokuapp.com/graph?username=TheFrenchRizz&theme=radical)
+
+## Trophées GitHub
+
+![Trophées GitHub de TheFrenchRizz](https://github-profile-trophy.vercel.app/?username=TheFrenchRizz&theme=radical)
+
